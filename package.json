@@ -1,0 +1,22 @@
+{
+  "name": "app-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinhamanav03/app-ui.git"
+  },
+  "author": "Manav Sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinhamanav03/app-ui/issues"
+  },
+  "homepage": "https://github.com/sinhamanav03/app-ui#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
