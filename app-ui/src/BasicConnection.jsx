@@ -1,12 +1,9 @@
 import React from "react";
-import ReactDOM from "react-dom";
 import {
   DiagramEngine,
   DiagramModel,
   DefaultNodeModel,
-  LinkModel,
   DiagramWidget,
-  DefaultLinkModel
 } from "storm-react-diagrams";
 
 import "./style.css";
